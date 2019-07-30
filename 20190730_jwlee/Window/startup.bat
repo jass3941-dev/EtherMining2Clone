@@ -1,0 +1,1 @@
+ethminer.exe -G -P stratum2+tcp://jasss3941%%2ewindowtest:x@asia.ethash-hub.miningpoolhub.com:20535  --cl-local-work 256 --opencl-platform 1
